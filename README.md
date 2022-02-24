@@ -1,5 +1,4 @@
-## __Hello!__  
-### I'm César `<class '__nick__.cesardddp'>`   
+## __Hello!__  I'm César `<class '__nick__.cesardddp'>`   
 
 - I'm Python developer🐍
 - learning Web development  
