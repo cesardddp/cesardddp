@@ -34,7 +34,7 @@
 <sub>(what you will almost find in the repositories)</sub>
 
 [<img align="center" width="35"  src ="./img/python.png"/>]()
-[<img align="center" width="96" style="margin: 4px -5px;" src ="./img/flask.jfif"/>]()
+[<img align="center" width="69" style="margin: 4px -5px;" src ="./img/flask.png"/>]()
 [<img align="center" width="35" src ="./img/vue.svg"/>]()
 [<img align="center" width="35" src ="./img/git.png"/>]()
 [<img align="center" width="35" src ="./img/mongodb.svg"/>]()
