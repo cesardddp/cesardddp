@@ -8,7 +8,7 @@
 
 [<img src="./img/twitter-square-logo.png" width="48" />](https://twitter.com/cesardddp)
 [<img src="./img/linkedin-icon.png" width="48" />](https://www.linkedin.com/in/c%C3%A9sar-m-oliveira-657a66159/)
-[<img src = "./img/instagram-logo.png" width="48">](https://www.instagram.com/cesardddp/) 
+[<img src = "./img/instagram-logo.png" width="48">](https://www.instagram.com/cesardddp/)
 
 
 [<img width="48"  src ="./img/python.png"/>]()
