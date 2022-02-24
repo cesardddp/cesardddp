@@ -11,13 +11,13 @@
 [<img src = "./img/instagram-logo.png" width="48" style="margin:5px;">](https://www.instagram.com/cesardddp/)
 
 
-<img width="48" style="margin:5px;"  src ="./img/python.png"/>
-<img width="96" style="margin: 4px -5px;" src ="./img/flask.png"/>
-<img width="48" style="margin:5px;" src ="./img/vue.svg"/>
-<img width="48" style="margin:5px;" src ="./img/git.png"/>
-<img width="48" style="margin:5px;" src ="./img/mongodb.svg"/>
-<img width="96" style="margin: 4px -5px;" src ="./img/bootstrap.png"/>
-<img width="48" style="margin:5px;" src ="./img/tailwind css.png"/>
-<img width="48" style="margin:5px;" src ="./img/django.png"/>
-<img width="48" style="margin:5px;" src ="./img/docker.png"/>
+[<img width="48" style="margin:5px;"  src ="./img/python.png"/>]()
+[<img width="96" style="margin: 4px -5px;" src ="./img/flask.png"/>]()
+[<img width="48" style="margin:5px;" src ="./img/vue.svg"/>]()
+[<img width="48" style="margin:5px;" src ="./img/git.png"/>]()
+[<img width="48" style="margin:5px;" src ="./img/mongodb.svg"/>]()
+[<img width="96" style="margin: 4px -5px;" src ="./img/bootstrap.png"/>]()
+[<img width="48" style="margin:5px;" src ="./img/tailwind css.png"/>]()
+[<img width="48" style="margin:5px;" src ="./img/django.png"/>]()
+[<img width="48" style="margin:5px;" src ="./img/docker.png"/>]()
 
