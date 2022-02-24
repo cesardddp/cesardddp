@@ -20,3 +20,4 @@
 <img width="48" style="margin:5px;" src ="./img/tailwind css.png"/>
 <img width="48" style="margin:5px;" src ="./img/django.png"/>
 <img width="48" style="margin:5px;" src ="./img/docker.png"/>
+
