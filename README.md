@@ -21,7 +21,12 @@
 - I'm from Brasil, currently live in SP 
 - Trying not to be beat by the college haha    
 
-<br>
+
+<div align="center">
+
+[<img src = "./img/0000.jpg" width="" align="">]()
+
+<div>
 
 <div align="center">
 
