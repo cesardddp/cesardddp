@@ -26,6 +26,7 @@
 <div align="center">
 
 ### ***My stack and base knowledge***
+<sub>(what you will almost find in the repositories)</sub>
 
 [<img align="center" width="35"  src ="./img/python.png"/>]()
 [<img align="center" width="96" style="margin: 4px -5px;" src ="./img/flask.jfif"/>]()
