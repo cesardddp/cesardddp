@@ -7,7 +7,7 @@
 - Trying not to be beat by the college haha    
 
 </div>
-<div style="display:flex;   justify-content:center;">
+<div align="center">
 
 [<img src="./img/twitter.png" width="48" align="center" />](https://twitter.com/cesardddp)
 [<img src="./img/linkedin-icon.png" width="48" align="center" />](https://www.linkedin.com/in/c%C3%A9sar-m-oliveira-657a66159/)
@@ -16,7 +16,7 @@
 
 </div>
 
-<div align="center" style="display:flex;   justify-content:center;">
+<div align="center">
 
 [<img align="center" width="48"  src ="./img/python.png"/>]()
 [<img align="center" width="96" style="margin: 4px -5px;" src ="./img/flask.jfif"/>]()
