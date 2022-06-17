@@ -18,9 +18,7 @@
 
 - I'm Python developer🐍
 - learning Web development  
-- I'm from Brasil, currently live in SP 
-- Trying not to be beat by the college haha    
-
+- I'm from Brasil
 
 <div align="center">
 
@@ -36,6 +34,7 @@
 [<img align="center" width="35"  src ="./img/python.png"/>]()
 [<img align="center" width="69" style="margin: 4px -5px;" src ="./img/flask.png"/>]()
 [<img align="center" width="35" src ="./img/vue.svg"/>]()
+[<img align="center" width="35" src ="./img/graphql.svg"/>]()
 [<img align="center" width="35" src ="./img/git.png"/>]()
 [<img align="center" width="35" src ="./img/mongodb.svg"/>]()
 [<img align="center" width="35" src ="./img/js.png"/>]()
