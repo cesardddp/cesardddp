@@ -1,8 +1,6 @@
 # __Hello!__  I'm César `<class '__nick__.cesardddp'>`   
 <!-- neal.fun -->
 
-[<img src="./img/twitter.png" width="35" align="right" />](https://twitter.com/cesardddp)
-[<img src ="./img/instagram-logo.png" width="35" align="right">](https://www.instagram.com/cesardddp/)
 [<img src="./img/linkedin-icon.png" width="35" align="right" />](https://www.linkedin.com/in/c%C3%A9sar-m-oliveira-657a66159/)
 [<img src = "./img/hotmail.png" width="35" align="right">](mailto:cesardddp@hotmail.com)
 
