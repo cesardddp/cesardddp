@@ -15,7 +15,8 @@
 <!-- <div align="right" >Contact me:</div> -->
 
 - I'm Python developer🐍
-- learning Web development  
+- learning TypeScript and Vue.js
+- learning Web development 
 - I'm from Brasil
 
 <div align="center">
