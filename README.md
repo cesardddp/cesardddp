@@ -33,7 +33,7 @@
 [<img align="center" width="35"  src ="./img/python.png"/>]()
 [<img align="center" width="69" style="margin: 4px -5px;" src ="./img/flask.png"/>]()
 [<img align="center" width="35" src ="./img/vue.svg"/>]()
-[<img align="center" width="35" src ="./img/graphql.svg"/>]()
+[<img align="center" width="35" src ="./img/graphql.png"/>]()
 [<img align="center" width="35" src ="./img/git.png"/>]()
 [<img align="center" width="35" src ="./img/mongodb.svg"/>]()
 [<img align="center" width="35" src ="./img/js.png"/>]()
